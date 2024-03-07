@@ -74,3 +74,4 @@ end
 gem "device"
 
 gem "pry-rails"
+gem "device"
